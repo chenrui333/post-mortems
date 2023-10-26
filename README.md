@@ -316,7 +316,7 @@
 
 [Netflix](https://netflixtechblog.com/post-mortem-of-october-22-2012-aws-degradation-efcee3ab40d5). An EBS outage in one availability zone was mitigated by migrating to other availability zones.
 
-[North American Electric Power System](https://www3.epa.gov/region1/npdes/merrimackstation/pdfs/ar/AR-1165.pdf).  A power outage in Ohio around 1600h EDT cascaded up through a web of systemic vulnerabilities and process failures and resulted in an outage in the power grid affecting ~50,000,000 people for ~4 days in some areas, and caused rolling blackouts in Ontario for about a week thereafter.
+[North American Electric Power System](https://web.archive.org/web/20230504223136/https://www3.epa.gov/region1/npdes/merrimackstation/pdfs/ar/AR-1165.pdf).  A power outage in Ohio around 1600h EDT cascaded up through a web of systemic vulnerabilities and process failures and resulted in an outage in the power grid affecting ~50,000,000 people for ~4 days in some areas, and caused rolling blackouts in Ontario for about a week thereafter.
 
 [Okta](https://www.okta.com/blog/2022/03/oktas-investigation-of-the-january-2022-compromise/). A hackers group got access to a third-party support engineer's laptop.
 
